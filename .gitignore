@@ -28,3 +28,6 @@ Thumbs.db
 # Zip files
 *.zip
 *.tar.gz
+
+# Uploaded media files (large videos/images)
+static/uploads/
