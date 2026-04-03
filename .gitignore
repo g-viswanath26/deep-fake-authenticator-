@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Databases
+instance/
+*.sqlite3
+
+# Node / JS (Frontend)
+node_modules/
+dist/
+build/
+.npm/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Zip files
+*.zip
+*.tar.gz
